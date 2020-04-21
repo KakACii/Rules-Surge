@@ -4,19 +4,6 @@
 DOMAIN-SUFFIX,4gtv.tv
 DOMAIN,4gtvfreepcvod-cds.cdn.hinet.net
 
-# >> AbemaTV
-DOMAIN,abematv.akamaized.net
-DOMAIN,ds-linear-abematv.akamaized.net
-DOMAIN,ds-vod-abematv.akamaized.net
-DOMAIN,linear-abematv.akamaized.net
-
-DOMAIN-SUFFIX,abema.io
-DOMAIN-SUFFIX,abema.tv
-DOMAIN-SUFFIX,ameba.jp
-DOMAIN-SUFFIX,hayabusa.io
-
-USER-AGENT,AbemaTV*
-
 # >> All4
 DOMAIN-SUFFIX,c4assets.com
 DOMAIN-SUFFIX,channel4.com
