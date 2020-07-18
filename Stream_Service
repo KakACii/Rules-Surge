@@ -178,6 +178,12 @@ DOMAIN-SUFFIX,my5.tv
 
 USER-AGENT,My5*
 
+# >> myTV Super
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvb.com
+
+USER-AGENT,mytv*
+
 # >> Netflix
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net
@@ -209,12 +215,6 @@ IP-CIDR,198.38.96.0/19,no-resolve
 IP-CIDR,198.45.48.0/20,no-resolve
 
 USER-AGENT,Argo*
-
-# >> myTV Super
-DOMAIN-SUFFIX,mytvsuper.com
-DOMAIN-SUFFIX,tvb.com
-
-USER-AGENT,mytv*
 
 # >> niconico
 DOMAIN-SUFFIX,dmc.nico
