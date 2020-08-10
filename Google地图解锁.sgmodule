@@ -1,0 +1,12 @@
+#!name=Google地图解锁
+#!desc=修复大陆手机卡无法使用Google地图的问题。
+
+
+# > Redirect Google Service
+[rewrite]
+^https?:\/\/(www.)?g\.cn https:\/\/www.google.com 302
+^https?:\/\/(www.)?google\.cn https:\/\/www.google.com 302
+
+[mitm]
+hostname=*.g.cn,*.google.cn
+
