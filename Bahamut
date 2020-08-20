@@ -3,8 +3,8 @@
 DOMAIN,gamer-cds.cdn.hinet.net
 DOMAIN,gamer2-cds.cdn.hinet.net
 DOMAIN,ocsp.eca.hinet.net
-DOMAIN,flury-ycpi.gycpi.b.yahoodns.net
 
+DOMAIN-SUFFIX,flury-ycpi.gycpi.b.yahoodns.net
 DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN-SUFFIX,gamer.com.tw
 
