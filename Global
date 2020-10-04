@@ -61,10 +61,6 @@ DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 
-# >> Microsoft Overseas
-DOMAIN-SUFFIX,office365.com
-DOMAIN-SUFFIX,windows.net
-
 # >> Oracle
 DOMAIN-SUFFIX,oracle.com
 
