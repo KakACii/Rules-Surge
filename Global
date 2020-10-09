@@ -80,6 +80,8 @@ DOMAIN-SUFFIX,newsblur.com
 DOMAIN-SUFFIX,yelp.com
 DOMAIN-SUFFIX,yelpcdn.com
 
+DOMAIN-SUFFIX,playstation.net
+
 DOMAIN-KEYWORD,github
 
 USER-AGENT,Roam*
