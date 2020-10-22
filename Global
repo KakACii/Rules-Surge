@@ -65,9 +65,10 @@ DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,oracle.com
 
 # >> Other
-DOMAIN,ccmdl.adobe.com
 DOMAIN,media.steampowered.com
 DOMAIN,wego.here.com
+
+DOMAIN-SUFFIX,adobe.com
 
 DOMAIN-SUFFIX,gameloft.com
 DOMAIN-SUFFIX,majsoul.union-game.com
