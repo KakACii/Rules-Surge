@@ -1,6 +1,20 @@
 # --- Apple Services ---
 
 # >> Apple
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,apple-dns.net
+DOMAIN-SUFFIX,apple.co
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,appstore.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,organicfruitapps.com
+
 DOMAIN-SUFFIX,appsto.re
 DOMAIN,api-glb-sea.smoot.apple.com
 DOMAIN,audiocontentdownload.apple.com
@@ -12,3 +26,5 @@ DOMAIN,itunes.apple.com
 DOMAIN,lookup-api.apple.com
 DOMAIN,news-client.apple.com
 DOMAIN,news-edge.apple.com
+DOMAIN,news-events.apple.com
+DOMAIN,apple.comscoreresearch.com
