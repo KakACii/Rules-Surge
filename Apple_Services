@@ -2,7 +2,6 @@
 
 # >> Apple
 DOMAIN,apple.com
-DOMAIN,apple.com.cn
 
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple-dns.net
