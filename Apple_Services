@@ -1,6 +1,5 @@
 # --- Apple Services ---
 
-# >> Apple
 DOMAIN,apple.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple-dns.net
@@ -16,15 +15,25 @@ DOMAIN-SUFFIX,organicfruitapps.com
 DOMAIN-SUFFIX,music.apple.com
 DOMAIN-SUFFIX,itunes.apple.com
 
+DOMAIN-SUFFIX,appleid.apple.com
+DOMAIN-SUFFIX,gc.apple.com
+DOMAIN-SUFFIX,gsa.apple.com
 
-DOMAIN-SUFFIX,appsto.re
-DOMAIN,api-glb-sea.smoot.apple.com
-DOMAIN,audiocontentdownload.apple.com
-DOMAIN,lookup-api.apple.com
+# --- Update Download ---
+DOMAIN-SUFFIX,swscan.apple.com
+DOMAIN-SUFFIX,swquery.apple.com
+DOMAIN-SUFFIX,swcdn.apple.com
+
+# --- Apple News ---
 DOMAIN,news-client.apple.com
 DOMAIN,news-edge.apple.com
 DOMAIN,news-events.apple.com
 DOMAIN,newsletter-edge.apple.com
 DOMAIN,c.apple.news
 DOMAIN,news-assets.apple.com
+
+DOMAIN-SUFFIX,appsto.re
+DOMAIN,api-glb-sea.smoot.apple.com
+DOMAIN,audiocontentdownload.apple.com
+DOMAIN,lookup-api.apple.com
 DOMAIN,apple.comscoreresearch.com
