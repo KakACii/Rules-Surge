@@ -26,6 +26,8 @@ DOMAIN-SUFFIX,swquery.apple.com
 DOMAIN-SUFFIX,swcdn.apple.com
 DOMAIN-SUFFIX,xp.apple.com
 DOMAIN-SUFFIX,swdist.apple.com
+DOMAIN-SUFFIX,mesu.apple.com
+
 
 # --- Apple News ---
 DOMAIN,news-client.apple.com
