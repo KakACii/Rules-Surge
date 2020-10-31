@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,googleapis.cn,force-remote-dns
 
 # >> Facebook
 DOMAIN-SUFFIX,cdninstagram.com,force-remote-dns
+DOMAIN-SUFFIX,fb.com,force-remote-dns
 DOMAIN-SUFFIX,fb.me,force-remote-dns
 DOMAIN-SUFFIX,fbcdn.net,force-remote-dns
 DOMAIN-SUFFIX,instagram.com,force-remote-dns
