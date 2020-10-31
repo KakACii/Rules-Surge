@@ -114,6 +114,7 @@ DOMAIN-SUFFIX,yahoo.com,force-remote-dns
 
 DOMAIN,onedrive.live.com,force-remote-dns
 
+DOMAIN-KEYWORD,akamai,force-remote-dns
 DOMAIN-KEYWORD,dropbox,force-remote-dns
 DOMAIN-KEYWORD,jav,force-remote-dns
 DOMAIN-KEYWORD,pinterest,force-remote-dns
