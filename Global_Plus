@@ -59,8 +59,6 @@ DOMAIN-SUFFIX,cbc.ca,force-remote-dns
 DOMAIN-SUFFIX,dailymotion.com,force-remote-dns
 DOMAIN-SUFFIX,deezer.com,force-remote-dns
 DOMAIN-SUFFIX,discordapp.net,force-remote-dns
-DOMAIN-SUFFIX,dropbox.com,force-remote-dns
-DOMAIN-SUFFIX,dropboxusercontent.com,force-remote-dns
 DOMAIN-SUFFIX,duckduckgo.com,force-remote-dns
 DOMAIN-SUFFIX,feedly.com,force-remote-dns
 DOMAIN-SUFFIX,flickr.com,force-remote-dns
@@ -115,6 +113,7 @@ DOMAIN-SUFFIX,yahoo.com,force-remote-dns
 
 DOMAIN,onedrive.live.com,force-remote-dns
 
+DOMAIN-KEYWORD,dropbox,force-remote-dns
 DOMAIN-KEYWORD,jav,force-remote-dns
 DOMAIN-KEYWORD,pinterest,force-remote-dns
 DOMAIN-KEYWORD,porn,force-remote-dns
