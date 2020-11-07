@@ -112,6 +112,8 @@ DOMAIN-SUFFIX,wsj.net,force-remote-dns
 DOMAIN-SUFFIX,xvideos.com,force-remote-dns
 DOMAIN-SUFFIX,yahoo.com,force-remote-dns
 
+DOMAIN-SUFFIX,gtv.org,force-remote-dns
+
 DOMAIN,onedrive.live.com,force-remote-dns
 
 DOMAIN-KEYWORD,akamai,force-remote-dns
