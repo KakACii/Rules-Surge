@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,tv.apple.com
 DOMAIN-SUFFIX,appleid.apple.com
 DOMAIN-SUFFIX,gc.apple.com
 DOMAIN-SUFFIX,gsa.apple.com
+DOMAIN-SUFFIX,ocsp.apple.com
 
 # --- Update Download ---
 DOMAIN-SUFFIX,swscan.apple.com
