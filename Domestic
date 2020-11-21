@@ -37,12 +37,6 @@ DOMAIN-SUFFIX,baidubcr.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,yunjiasu-cdn.net
 
-# >> Blizzard
-DOMAIN-SUFFIX,battle.net
-DOMAIN-SUFFIX,blizzard.com
-
-DOMAIN,blzddist1-a.akamaihd.net
-
 # >> ByteDance
 DOMAIN-SUFFIX,bytecdn.cn
 DOMAIN-SUFFIX,feiliao.com
