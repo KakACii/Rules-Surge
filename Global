@@ -73,7 +73,6 @@ DOMAIN,cloudprofile.io
 
 # >> Other
 
-DOMAIN,media.steampowered.com
 DOMAIN,wego.here.com
 
 DOMAIN-SUFFIX,gameloft.com
@@ -93,6 +92,7 @@ DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,adobe
 DOMAIN-KEYWORD,yelp
 DOMAIN-KEYWORD,paypal
+DOMAIN-KEYWORD,steam
 
 DOMAIN-SUFFIX,roamresearch.com
 
