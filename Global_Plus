@@ -4,12 +4,16 @@
 DOMAIN-SUFFIX,cloudflareresolve.com,force-remote-dns
 
 # >> Google
+DOMAIN-KEYWORD,blogspot,force-remote-dns
+DOMAIN-KEYWORD,google,force-remote-dns
 DOMAIN-SUFFIX,abc.xyz,force-remote-dns
 DOMAIN-SUFFIX,admin.recaptcha.net,force-remote-dns
 DOMAIN-SUFFIX,ampproject.org,force-remote-dns
 DOMAIN-SUFFIX,android.com,force-remote-dns
 DOMAIN-SUFFIX,androidify.com,force-remote-dns
+DOMAIN-SUFFIX,appspot.com,force-remote-dns
 DOMAIN-SUFFIX,autodraw.com,force-remote-dns
+DOMAIN-SUFFIX,blogger.com,force-remote-dns
 DOMAIN-SUFFIX,capitalg.com,force-remote-dns
 DOMAIN-SUFFIX,certificate-transparency.org,force-remote-dns
 DOMAIN-SUFFIX,chrome.com,force-remote-dns
@@ -22,12 +26,18 @@ DOMAIN-SUFFIX,deepmind.com,force-remote-dns
 DOMAIN-SUFFIX,dialogflow.com,force-remote-dns
 DOMAIN-SUFFIX,firebaseio.com,force-remote-dns
 DOMAIN-SUFFIX,getmdl.io,force-remote-dns
+DOMAIN-SUFFIX,getoutline.org,force-remote-dns
 DOMAIN-SUFFIX,ggpht.com,force-remote-dns
+DOMAIN-SUFFIX,gmail.com,force-remote-dns
 DOMAIN-SUFFIX,gmodules.com,force-remote-dns
 DOMAIN-SUFFIX,godoc.org,force-remote-dns
 DOMAIN-SUFFIX,golang.org,force-remote-dns
+DOMAIN-SUFFIX,googleapis.cn,force-remote-dns
 DOMAIN-SUFFIX,gstatic.com,force-remote-dns
 DOMAIN-SUFFIX,gv.com,force-remote-dns
+DOMAIN-SUFFIX,gvt0.com,force-remote-dns
+DOMAIN-SUFFIX,gvt1.com,force-remote-dns
+DOMAIN-SUFFIX,gvt3.com,force-remote-dns
 DOMAIN-SUFFIX,gwtproject.org,force-remote-dns
 DOMAIN-SUFFIX,itasoftware.com,force-remote-dns
 DOMAIN-SUFFIX,madewithcode.com,force-remote-dns
@@ -36,6 +46,7 @@ DOMAIN-SUFFIX,polymer-project.org,force-remote-dns
 DOMAIN-SUFFIX,recaptcha.net,force-remote-dns
 DOMAIN-SUFFIX,shattered.io,force-remote-dns
 DOMAIN-SUFFIX,synergyse.com,force-remote-dns
+DOMAIN-SUFFIX,tensorflow.org,force-remote-dns
 DOMAIN-SUFFIX,tiltbrush.com,force-remote-dns
 DOMAIN-SUFFIX,waveprotocol.org,force-remote-dns
 DOMAIN-SUFFIX,waymo.com,force-remote-dns
@@ -48,17 +59,6 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com,force-remote-dns
 DOMAIN-SUFFIX,youtu.be,force-remote-dns
 DOMAIN-SUFFIX,yt.be,force-remote-dns
 DOMAIN-SUFFIX,ytimg.com,force-remote-dns
-DOMAIN-SUFFIX,appspot.com,force-remote-dns
-DOMAIN-SUFFIX,blogger.com,force-remote-dns
-DOMAIN-SUFFIX,getoutline.org,force-remote-dns
-DOMAIN-SUFFIX,gvt0.com,force-remote-dns
-DOMAIN-SUFFIX,gvt1.com,force-remote-dns
-DOMAIN-SUFFIX,gvt3.com,force-remote-dns
-DOMAIN-KEYWORD,google,force-remote-dns
-DOMAIN-SUFFIX,gmail.com,force-remote-dns
-DOMAIN-KEYWORD,blogspot,force-remote-dns
-DOMAIN-SUFFIX,googleapis.cn,force-remote-dns
-DOMAIN-SUFFIX,tensorflow.org,force-remote-dns
 
 # >> Facebook
 DOMAIN-SUFFIX,cdninstagram.com,force-remote-dns
