@@ -32,7 +32,7 @@ DOMAIN-SUFFIX,gmail.com,force-remote-dns
 DOMAIN-SUFFIX,gmodules.com,force-remote-dns
 DOMAIN-SUFFIX,godoc.org,force-remote-dns
 DOMAIN-SUFFIX,golang.org,force-remote-dns
-DOMAIN-SUFFIX,googleapis.cn,force-remote-dns
+DOMAIN-SUFFIX,googleapis.com,force-remote-dns
 DOMAIN-SUFFIX,gstatic.com,force-remote-dns
 DOMAIN-SUFFIX,gv.com,force-remote-dns
 DOMAIN-SUFFIX,gvt0.com,force-remote-dns
