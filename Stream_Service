@@ -81,31 +81,6 @@ DOMAIN-SUFFIX,theplatform.com
 
 USER-AGENT,FOXPlus*
 
-# >> HBO
-DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
-DOMAIN,bcbolthboa-a.akamaihd.net
-DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
-DOMAIN,dai3fd1oh325y.cloudfront.net
-DOMAIN,hboasia1-i.akamaihd.net
-DOMAIN,hboasia2-i.akamaihd.net
-DOMAIN,hboasia3-i.akamaihd.net
-DOMAIN,hboasia4-i.akamaihd.net
-DOMAIN,hboasia5-i.akamaihd.net
-DOMAIN,manifest.prod.boltdns.net
-DOMAIN,players.brightcove.net
-DOMAIN,s3-ap-southeast-1.amazonaws.com
-
-DOMAIN-SUFFIX,hbo.com
-DOMAIN-SUFFIX,hboasia.com
-DOMAIN-SUFFIX,hbogo.com
-DOMAIN-SUFFIX,hbogoasia.com
-DOMAIN-SUFFIX,hbogoasia.hk
-DOMAIN-SUFFIX,hbonow.com
-
-USER-AGENT,HBO%20GO%20PROD%20HKG*
-USER-AGENT,HBO%20NOW*
-USER-AGENT,HBO*
-
 # >> Hulu
 DOMAIN-SUFFIX,happyon.jp
 DOMAIN-SUFFIX,hulu.com
@@ -222,18 +197,6 @@ USER-AGENT,TaiwanGood*
 # >> TIDAL
 USER-AGENT,TIDAL*
 DOMAIN-SUFFIX,tidal.com
-
-# >> TikTok
-DOMAIN,api-h2.tiktokv.com
-DOMAIN,api2-19-h2.musical.ly
-
-DOMAIN-KEYWORD,-tiktokcdn-com
-
-DOMAIN-SUFFIX,muscdn.com
-DOMAIN-SUFFIX,musical.ly
-DOMAIN-SUFFIX,tiktokcdn.com
-
-USER-AGENT,TikTok*
 
 # >> Twitch
 DOMAIN-SUFFIX,jtvnw.net
