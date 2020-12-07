@@ -156,12 +156,6 @@ DOMAIN,vi.l.qq.com
 DOMAIN-SUFFIX,dns.pub
 DOMAIN-SUFFIX,doh.pub
 DOMAIN-SUFFIX,qcloud.com
-
-
-# >> TeslaMap
-DOMAIN-SUFFIX,52tesla.com
-USER-AGENT,TeslaMap
-
 DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,idqqimg.com
 DOMAIN-SUFFIX,igamecj.com
@@ -174,6 +168,11 @@ DOMAIN-SUFFIX,tencent.com
 
 USER-AGENT,MicroMessenger%20Client
 USER-AGENT,WeChat*
+
+
+# >> TeslaMap
+DOMAIN-SUFFIX,52tesla.com
+USER-AGENT,TeslaMap
 
 # >> YYeTs
 DOMAIN-SUFFIX,jstucdn.com
