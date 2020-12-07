@@ -128,6 +128,8 @@ DOMAIN-SUFFIX,ok.ru,force-remote-dns
 DOMAIN-SUFFIX,okex.com,force-remote-dns
 DOMAIN-SUFFIX,pinimg.com,force-remote-dns
 DOMAIN-SUFFIX,pixiv.net,force-remote-dns
+DOMAIN-SUFFIX,pixiv.help,force-remote-dns
+DOMAIN-SUFFIX,pximg.net,force-remote-dns
 DOMAIN-SUFFIX,pornhub.com,force-remote-dns
 DOMAIN-SUFFIX,quora.com,force-remote-dns
 DOMAIN-SUFFIX,reddit.com,force-remote-dns
