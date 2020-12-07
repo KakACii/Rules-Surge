@@ -138,14 +138,10 @@ DOMAIN-SUFFIX,reuters.com,force-remote-dns
 DOMAIN-SUFFIX,scribd.com,force-remote-dns
 DOMAIN-SUFFIX,shadowsocks.org,force-remote-dns
 DOMAIN-SUFFIX,slideshare.net,force-remote-dns
-DOMAIN-SUFFIX,soundcloud.com,force-remote-dns
-DOMAIN-SUFFIX,steamcommunity.com,force-remote-dns
-DOMAIN-SUFFIX,telegram.org,force-remote-dns
 DOMAIN-SUFFIX,theinitium.com,force-remote-dns
 DOMAIN-SUFFIX,tineye.com,force-remote-dns
 DOMAIN-SUFFIX,tumblr.com,force-remote-dns
 DOMAIN-SUFFIX,turbobit.net,force-remote-dns
-DOMAIN-SUFFIX,twitch.tv,force-remote-dns
 DOMAIN-SUFFIX,uptodown.com,force-remote-dns
 DOMAIN-SUFFIX,v2ray.com,force-remote-dns
 DOMAIN-SUFFIX,vimeo.com,force-remote-dns
@@ -159,8 +155,6 @@ DOMAIN-SUFFIX,xvideos.com,force-remote-dns
 DOMAIN-SUFFIX,yahoo.com,force-remote-dns
 
 DOMAIN-SUFFIX,gtv.org,force-remote-dns
-
-DOMAIN,onedrive.live.com,force-remote-dns
 
 DOMAIN-KEYWORD,akamai,force-remote-dns
 DOMAIN-KEYWORD,dropbox,force-remote-dns
