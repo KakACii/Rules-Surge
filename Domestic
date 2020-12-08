@@ -118,9 +118,9 @@ DOMAIN,ipv4.rainway.com
 DOMAIN,ipv6.rainway.com
 
 # >> NetEase
-DOMAIN-SUFFIX,126.net
+DOMAIN,126.net
 DOMAIN-SUFFIX,127.net
-DOMAIN-SUFFIX,163.com
+DOMAIN,163.com
 DOMAIN-SUFFIX,163yun.com
 DOMAIN-SUFFIX,lofter.com
 DOMAIN-SUFFIX,netease.com
