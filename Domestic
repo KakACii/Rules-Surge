@@ -313,6 +313,7 @@ IP-CIDR,58.251.80.100/29,no-resolve
 IP-CIDR,58.251.100.101/32,no-resolve
 IP-CIDR,58.251.111.100/29,no-resolve
 IP-CIDR,58.251.117.186/32,no-resolve
+IP-CIDR,163.177.81.139/29,no-resolve
 IP-CIDR,210.22.245.104/32,no-resolve
 IP-CIDR,61.241.49.53/32,no-resolve
 
