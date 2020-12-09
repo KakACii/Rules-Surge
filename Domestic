@@ -317,7 +317,8 @@ IP-CIDR,61.241.49.53/32,no-resolve
 IP-CIDR,157.255.174.100/31,no-resolve
 IP-CIDR,163.177.81.139/29,no-resolve
 IP-CIDR,210.22.245.104/32,no-resolve
-
+DOMAIN-SUFFIX,tfryb.com
+DOMAIN-SUFFIX,ikanke.cn
 
 # Client
 
