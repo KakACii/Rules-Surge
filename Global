@@ -38,6 +38,8 @@ DOMAIN-SUFFIX,getdropbox.com
 DOMAIN,paper-attachments.s3.amazonaws.com
 
 # >> GitHub
+DOMAIN-SUFFIX,atom.io
+DOMAIN-SUFFIX,electronjs.org
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,github.blog
 DOMAIN-SUFFIX,github.com
@@ -47,7 +49,6 @@ DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubstatus.com
 DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,atom.io
 DOMAIN,github-avatars.oss-cn-hongkong.aliyuncs.com
 
 
