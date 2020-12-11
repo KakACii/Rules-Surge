@@ -19,6 +19,38 @@ DOMAIN-SUFFIX,typekit.net
 # >> Cloudflare
 DOMAIN-SUFFIX,cloudflareresolve.com
 
+# >> Dropbox
+DOMAIN-SUFFIX,db.tt
+DOMAIN-SUFFIX,dropbox-dns.com
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,dropbox.tech
+DOMAIN-SUFFIX,dropboxapi.com
+DOMAIN-SUFFIX,dropboxbusiness.com
+DOMAIN-SUFFIX,dropboxcaptcha.com
+DOMAIN-SUFFIX,dropboxforum.com
+DOMAIN-SUFFIX,dropboxforums.com
+DOMAIN-SUFFIX,dropboxinsiders.com
+DOMAIN-SUFFIX,dropboxmail.com
+DOMAIN-SUFFIX,dropboxpartners.com
+DOMAIN-SUFFIX,dropboxstatic.com
+DOMAIN-SUFFIX,dropboxusercontent.com
+DOMAIN-SUFFIX,getdropbox.com
+DOMAIN,paper-attachments.s3.amazonaws.com
+
+# >> GitHub
+DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.community
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubstatus.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,atom.io
+DOMAIN,github-avatars.oss-cn-hongkong.aliyuncs.com
+
+
 # >> Google
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,google
@@ -105,6 +137,16 @@ DOMAIN-SUFFIX,naver.jp
 # >> Oracle
 DOMAIN-SUFFIX,oracle.com
 
+# >> Steam
+DOMAIN-SUFFIX,fanatical.com
+DOMAIN-SUFFIX,humblebundle.com
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steam-chat.com
+DOMAIN,steamcdn-a.akamaihd.net
+DOMAIN,steamcommunity-a.akamaihd.net
+
 # >> Telegram
 DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegram.org
@@ -136,6 +178,7 @@ DOMAIN-SUFFIX,nyt.com
 DOMAIN-SUFFIX,nytco.com
 DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,nytstyle.com
+DOMAIN-SUFFIX,pincong.rocks
 DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,pixiv.help
 DOMAIN-SUFFIX,pixiv.net
@@ -159,15 +202,11 @@ DOMAIN-SUFFIX,yahoo.com
 
 DOMAIN-KEYWORD,akamai
 DOMAIN-KEYWORD,discord
-DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,epicgames
-DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,jav
 DOMAIN-KEYWORD,paypal
-DOMAIN-KEYWORD,pincong
 DOMAIN-KEYWORD,pinterest
 DOMAIN-KEYWORD,porn
-DOMAIN-KEYWORD,steam
 DOMAIN-KEYWORD,yandex
 DOMAIN-KEYWORD,yelp
 
