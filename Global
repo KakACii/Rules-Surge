@@ -1,5 +1,10 @@
 # --- General Global Services ---
 
+# >> Adobe
+DOMAIN-SUFFIX,adobe.com
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,behance.net
+
 # >> Cloudflare
 DOMAIN-SUFFIX,cloudflareresolve.com
 
@@ -141,7 +146,6 @@ DOMAIN-SUFFIX,wsj.net
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,yahoo.com
 
-DOMAIN-KEYWORD,adobe
 DOMAIN-KEYWORD,akamai
 DOMAIN-KEYWORD,discord
 DOMAIN-KEYWORD,dropbox
