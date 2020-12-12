@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,adobeaemcloud.com
 DOMAIN-SUFFIX,adobeaemcloud.net
+DOMAIN-SUFFIX,adobecces.com
 DOMAIN-SUFFIX,adobeccstatic.com
 DOMAIN-SUFFIX,adobedc.net
 DOMAIN-SUFFIX,adobedtm.com
@@ -17,7 +18,12 @@ DOMAIN-SUFFIX,omtrdc.net
 DOMAIN-SUFFIX,typekit.com
 DOMAIN-SUFFIX,typekit.net
 
+# >> Amazon Web Services
+DOMAIN-SUFFIX,aws.amazon.com
+DOMAIN-SUFFIX,cloudfront.net
+
 # >> Cloudflare
+DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflareresolve.com
 
 # >> Dropbox
@@ -164,10 +170,11 @@ IP-CIDR6,2001:b28:f23f::/48,no-resolve
 IP-CIDR6,2001:67c:4e8::/48,no-resolve
 
 # >> Other
+DOMAIN,amazon.co.jp
+DOMAIN,amazon.com
+
 DOMAIN-SUFFIX,500px.com
 DOMAIN-SUFFIX,500px.org
-DOMAIN-SUFFIX,amazon.co.jp
-DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,deepl.com
