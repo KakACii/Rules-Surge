@@ -211,7 +211,6 @@ DOMAIN-SUFFIX,tineye.com
 DOMAIN-SUFFIX,tpucdn.com
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,turbobit.net
-DOMAIN-SUFFIX,ubuntu.com
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,wsj.net
@@ -225,8 +224,10 @@ DOMAIN-KEYWORD,jav
 DOMAIN-KEYWORD,paypal
 DOMAIN-KEYWORD,pinterest
 DOMAIN-KEYWORD,porn
+DOMAIN-KEYWORD,ubuntu
 DOMAIN-KEYWORD,yandex
 DOMAIN-KEYWORD,yelp
+
 
 
 # --- End of General Global Services Section ---
