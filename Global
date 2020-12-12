@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,typekit.net
 
 # >> Amazon Web Services
 DOMAIN-SUFFIX,aws.amazon.com
+DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,cloudfront.net
 
 # >> Cloudflare
@@ -42,7 +43,6 @@ DOMAIN-SUFFIX,dropboxpartners.com
 DOMAIN-SUFFIX,dropboxstatic.com
 DOMAIN-SUFFIX,dropboxusercontent.com
 DOMAIN-SUFFIX,getdropbox.com
-DOMAIN,paper-attachments.s3.amazonaws.com
 
 # >> GitHub
 DOMAIN-SUFFIX,atom.io
