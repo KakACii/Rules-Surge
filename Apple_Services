@@ -1,6 +1,7 @@
 # --- Apple Services ---
 
 DOMAIN,apple.com
+DOMAIN,ocvideo.apple.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,apple.co
