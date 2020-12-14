@@ -28,9 +28,9 @@ DOMAIN-SUFFIX,youku.com
 USER-AGENT,%E4%BC%98%E9%85%B7*
 
 # >> Apple
-DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN,gs-loc-cn.apple.com
 DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,icloud.com.cn
 
 # >> Baidu
 DOMAIN-SUFFIX,baidu.com
@@ -107,6 +107,7 @@ DOMAIN-SUFFIX,meitustat.com
 
 # >> MI
 DOMAIN-SUFFIX,duokan.com
+DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,mifile.cn
 DOMAIN-SUFFIX,miui.com
