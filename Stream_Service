@@ -28,9 +28,6 @@ DOMAIN-SUFFIX,primevideo.com
 USER-AGENT,InstantVideo.US*
 USER-AGENT,Prime%20Video*
 
-# >> Apple TV
-DOMAIN,ocvideo.apple.com
-
 # >> BBC
 DOMAIN-KEYWORD,bbcfmt
 DOMAIN-KEYWORD,uk-live
