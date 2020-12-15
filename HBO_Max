@@ -1,8 +1,13 @@
 # --- HBO Max ---
 
-USER-AGENT,HBO%20NOW*
 DOMAIN-SUFFIX,hbo.com
 DOMAIN-SUFFIX,hbogo.com
+DOMAIN-SUFFIX,hbomax.com
 DOMAIN-SUFFIX,hbonow.com
 USER-AGENT,HBOMAX*
-DOMAIN-SUFFIX,hbomax.com
+USER-AGENT,HBO%20NOW*
+
+#------ Others using USA proxy--------
+
+DOMAIN,bgp.emby.mickeycloud.com
+DOMAIN,emby.nexitally.com
