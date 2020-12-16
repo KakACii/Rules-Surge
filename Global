@@ -143,6 +143,7 @@ DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,naver.jp
 
 # >> Oracle
+DOMAIN-SUFFIX,java.net
 DOMAIN-SUFFIX,oracle.com
 
 # >> Steam
