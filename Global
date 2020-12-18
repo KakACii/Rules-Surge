@@ -23,6 +23,12 @@ DOMAIN-SUFFIX,aws.amazon.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,cloudfront.net
 
+# >> Blizzard BattleNet
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,blizzard.com
+DOMAIN-SUFFIX,playoverwatch.com
+DOMAIN-SUFFIX,worldofwarcraft.com
+
 # >> Cloudflare
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflareresolve.com
