@@ -64,7 +64,6 @@ DOMAIN-SUFFIX,githubstatus.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN,github-avatars.oss-cn-hongkong.aliyuncs.com
 
-
 # >> Google
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,google
@@ -175,6 +174,12 @@ IP-CIDR,149.154.160.0/20,no-resolve
 IP-CIDR6,2001:b28:f23d::/48,no-resolve
 IP-CIDR6,2001:b28:f23f::/48,no-resolve
 IP-CIDR6,2001:67c:4e8::/48,no-resolve
+
+# >> Ubisoft
+DOMAIN-SUFFIX,ubi.com
+DOMAIN-SUFFIX,ubisoft.com
+DOMAIN-SUFFIX,ubisoftconnect.com
+DOMAIN-SUFFIX,uplay.com
 
 # >> Other
 DOMAIN,amazon.co.jp
