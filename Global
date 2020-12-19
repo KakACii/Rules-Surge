@@ -151,6 +151,14 @@ DOMAIN-SUFFIX,naver.jp
 DOMAIN-SUFFIX,java.net
 DOMAIN-SUFFIX,oracle.com
 
+# >> Sony & PlayStation
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,sony.com
+DOMAIN-SUFFIX,sony.com.hk
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+
+
 # >> Steam
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,humblebundle.com
@@ -212,8 +220,6 @@ DOMAIN-SUFFIX,pincong.rocks
 DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,pixiv.help
 DOMAIN-SUFFIX,pixiv.net
-DOMAIN-SUFFIX,playstation.com
-DOMAIN-SUFFIX,playstation.net
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,pximg.net
 DOMAIN-SUFFIX,quora.com
