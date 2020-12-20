@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,music.apple.com
 DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,tv.apple.com
+DOMAIN-SUFFIX,sequoia.apple.com
 
 DOMAIN-SUFFIX,appleid.apple.com
 DOMAIN-SUFFIX,gc.apple.com
