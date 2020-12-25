@@ -5,6 +5,7 @@ DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,bing
 
+DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,microsoft.com
