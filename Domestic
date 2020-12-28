@@ -196,7 +196,7 @@ DOMAIN-SUFFIX,wangsu.com
 # >> Others
 DOMAIN,cn.download.nvidia.com
 DOMAIN-KEYWORD,amplifi
-
+DOMAIN,cdn.jsdelivr.net
 DOMAIN-SUFFIX,12306.cn
 DOMAIN-SUFFIX,360in.com
 DOMAIN-SUFFIX,3dmgame.com
