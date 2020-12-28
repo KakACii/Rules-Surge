@@ -7,6 +7,7 @@ const aqicnToken = '7c0af31778f831ce5a9fdf771f23a7c53641831'
 /*
 	[Script]
 	AQI-US = type=http-response, pattern=https://weather-data.apple.com/v1/weather/[\w-]+/[0-9]+\.[0-9]+/[0-9]+\.[0-9]+\?, requires-body=true, script-path=/path/to/iOS_Weather_AQI_Standard.js
+
 	[MITM]
 	hostname = weather-data.apple.com
 */
