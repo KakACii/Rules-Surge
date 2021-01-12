@@ -6,10 +6,11 @@ DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,bing
 
 DOMAIN-SUFFIX,appcenter.ms
+DOMAIN-SUFFIX,azure.com
+DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,microsoft.com
-DOMAIN-SUFFIX,microsoftstore.com.cn
 DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
