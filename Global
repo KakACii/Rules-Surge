@@ -160,6 +160,7 @@ DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstation.net
 DOMAIN-SUFFIX,sony.com
 DOMAIN-SUFFIX,sony.com.hk
+DOMAIN-SUFFIX,sonycoment.loris-e.llnwd.net
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 
 # >> Telegram
@@ -221,7 +222,6 @@ DOMAIN-SUFFIX,quoracdn.net
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,roamresearch.com
-DOMAIN-SUFFIX,sonycoment.loris-e.llnwd.net
 DOMAIN-SUFFIX,snapcraft.io
 DOMAIN-SUFFIX,synology.com
 DOMAIN-SUFFIX,techpowerup.com
