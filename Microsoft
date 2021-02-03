@@ -13,9 +13,11 @@ DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,msecnd.net
+DOMAIN-SUFFIX,msedge.net
 DOMAIN-SUFFIX,msftauth.net
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
+DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,s-microsoft.com
 DOMAIN-SUFFIX,sfx.ms
