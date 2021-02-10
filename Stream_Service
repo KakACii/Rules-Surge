@@ -128,14 +128,6 @@ DOMAIN-SUFFIX,tvb.com
 
 USER-AGENT,mytv*
 
-# >> niconico
-DOMAIN-SUFFIX,dmc.nico
-DOMAIN-SUFFIX,nicovideo.jp
-DOMAIN-SUFFIX,nimg.jp
-DOMAIN-SUFFIX,socdm.com
-
-USER-AGENT,Niconico*
-
 # >> Pandora
 DOMAIN-SUFFIX,pandora.com
 USER-AGENT,Pandora*
