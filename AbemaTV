@@ -30,3 +30,11 @@ DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-KEYWORD,-tiktokcdn-com
 USER-AGENT,TikTok*
+
+# >> niconico
+DOMAIN-SUFFIX,dmc.nico
+DOMAIN-SUFFIX,nicovideo.jp
+DOMAIN-SUFFIX,nimg.jp
+DOMAIN-SUFFIX,socdm.com
+
+USER-AGENT,Niconico*
