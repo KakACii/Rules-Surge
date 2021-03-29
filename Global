@@ -185,6 +185,12 @@ DOMAIN-SUFFIX,ubisoft.com
 DOMAIN-SUFFIX,ubisoftconnect.com
 DOMAIN-SUFFIX,uplay.com
 
+# >> Yahoo! 
+DOMAIN-SUFFIX,yahoo.co.jp
+DOMAIN-SUFFIX,yahoo.com
+DOMAIN-SUFFIX,yimg.com
+DOMAIN-SUFFIX,yusercontent.com
+
 # >> Other
 DOMAIN,amazon.co.jp
 DOMAIN,amazon.com
@@ -240,7 +246,7 @@ DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,wsj.net
 DOMAIN-SUFFIX,xvideos.com
-DOMAIN-SUFFIX,yahoo.com
+
 
 DOMAIN-KEYWORD,akamai
 DOMAIN-KEYWORD,discord
