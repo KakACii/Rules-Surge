@@ -9,3 +9,28 @@ DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN-SUFFIX,gamer.com.tw
 
 USER-AGENT,Anime*
+
+#----------KKBOX------------
+DOMAIN-SUFFIX,kfs.io
+DOMAIN-SUFFIX,kkbox.com
+DOMAIN-SUFFIX,kkbox.com.tw
+
+
+#----------KKTV------------
+DOMAIN,kktv-theater.kk.stream
+
+DOMAIN-SUFFIX,kktv.com.tw
+DOMAIN-SUFFIX,kktv.me
+
+USER-AGENT,com.kktv.ios.kktv*
+USER-AGENT,KKTV*
+
+
+#----------Line TV------------
+DOMAIN,d3c7rimkq79yfu.cloudfront.net
+DOMAIN-SUFFIX,linetv.tw
+USER-AGENT,LINE%20TV*
+
+#----------LiTV-----------
+DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
+DOMAIN-SUFFIX,litv.tv
