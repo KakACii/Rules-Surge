@@ -199,7 +199,6 @@ DOMAIN-SUFFIX,500px.com
 DOMAIN-SUFFIX,500px.org
 DOMAIN-SUFFIX,alibabacloud.com
 DOMAIN-SUFFIX,bbc.com
-DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,bloomberg.com
 DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,duckduckgo.com
@@ -258,6 +257,7 @@ DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,ubuntu
 DOMAIN-KEYWORD,yandex
 DOMAIN-KEYWORD,yelp
+DOMAIN-KEYWORD,binance
 
 
 
